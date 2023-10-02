@@ -1,13 +1,20 @@
+<div id="header" align="center">
+  <img src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357.gif" width="150"/>
+</div>
 <h1 align="center">Hi 👋, I'm Nitesh Yadav</h1>
 <h3 align="center">Web Developer.</h3>
 
-- 🌱 I’m currently learning **Web Development**
+![](https://komarev.com/ghpvc/?username=nxtesh)
+- 🌱 I’m currently learning **Web Development.**
 
 - 🔭 I’m currently working on Personal Projects.
 
-- 📫 How to reach me **nitesh2003y@gmail.com**
+- 📫 How to reach me: **nitesh2003y@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=nxtesh)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nxtesh&theme=tokyonight)
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nxtesh&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 <!--
