@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitesh Yadav</h1>
 <h3 align="center">Web Developer.</h3>
 
-- 🌱 I’m currently learning...
+- 🌱 I’m currently learning **Web Development**
 
 - 🔭 I’m currently working on Personal Projects.
 
