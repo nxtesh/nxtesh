@@ -1,7 +1,9 @@
 <div id="header" align="center">
-  <img src="[https://miro.medium.com/v2/resize:fit:750/format:webp/1*9rZuZJMSKAP6yAGloFeeNg.jpeg]" />
+  <img src="https://github.com/nxtesh/nxtesh/assets/114382722/4c461980-520d-495f-9cd6-583d22ca2df1" width="400" height="250" />
+  
+
 </div>
-<h1 align="center">Hi 👋, I'm Nitesh Yadav</h1>
+<h1 align="center">I'm Nitesh Yadav</h1>
 <h3 align="center">Web Developer.</h3>
 
 ![](https://komarev.com/ghpvc/?username=nxtesh)
