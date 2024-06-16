@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://tenor.com/view/cat-computer-typing-fast-gif-5368357.gif](https://miro.medium.com/v2/resize:fit:750/format:webp/1*9rZuZJMSKAP6yAGloFeeNg.jpeg)" width="150"/>
+  <img src="[https://miro.medium.com/v2/resize:fit:750/format:webp/1*9rZuZJMSKAP6yAGloFeeNg.jpeg]" width="150"/>
 </div>
 <h1 align="center">Hi 👋, I'm Nitesh Yadav</h1>
 <h3 align="center">Web Developer.</h3>
